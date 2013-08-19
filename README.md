@@ -29,7 +29,7 @@ Agradecimento especial a Gendata por patrocinar um belo Coffe Break para o event
 * Apoio de empresas (Gendata)
 * Problema finalizado
 
-### Pontos Positivos:
+### Pontos Negativos:
 
 * Não deu tempo de todos participarem
 
@@ -37,7 +37,7 @@ Agradecimento especial a Gendata por patrocinar um belo Coffe Break para o event
 
 * Alisson Oshiro
 * Anndressa
-* ANTONIO CARLOS NUNES JUNIOR
+* Antonio Carlos Nunes Junior
 * Brivaldo Junior
 * Cauan Cabral
 * Diego Henrique Franco
